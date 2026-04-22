@@ -5,7 +5,7 @@ This repository contains basic operations using the Pandas library in Python. It
 ## 📌 Features
 
 - Creating a DataFrame
-- Viewing data using .head() and .info()
+- Viewing data using 'head()' and 'info()'
 - Filtering data based on conditions
 - Performing basic statistical operations (mean)
 
@@ -16,10 +16,7 @@ This repository contains basic operations using the Pandas library in Python. It
 
 ## ▶️ How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ANURAGKUMAR0309/pandas-learning.git
-2. Navigate to the folder
-   cd pandas-learning
-3. Run the script:
-4. python main.py      
+```bash
+git clone https://github.com/ANURAGKUMAR0309/pandas-learning.git
+cd pandas-learning
+python main.py
