@@ -1,0 +1,7 @@
+Employee_ID,Name,Department,Salary,Join_Date
+101,Alice Smith,HR,60000.0,2020-01-01
+102,Bob Jones,IT,85000.0,2021-03-15
+103,Charlie Brown,IT,78000.0,2019-07-22
+104,Dana White,Marketing,,2022-11-05
+105,Edgar Allan,Sales,55000.0,2021-01-10
+106,Fiona Apple,HR,62000.0,2023-04-12
